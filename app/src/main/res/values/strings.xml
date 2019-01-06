@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SampleRxBinding</string>
+
+    <string name="hint_input_id">IDを入力してください</string>
+    <string name="hint_input_pw">PWを入力してください</string>
+
+    <string name="enable_tapping">タップ可能</string>
+    <string name="disable_tapping">タップ不可</string>
 </resources>
